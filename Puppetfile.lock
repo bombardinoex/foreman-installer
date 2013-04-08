@@ -1,0 +1,90 @@
+GIT
+  remote: git@github.com:theforeman/puppet-apache.git
+  ref: 6e3d58d
+  sha: 6e3d58dab6eaed9307f092c44b48987c74782a14
+  specs:
+    apache (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-concat.git
+  ref: d776701
+  sha: d776701a09c29ffce55d6d531223a7ff5e46244d
+  specs:
+    concat (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-dhcp
+  ref: a0be690
+  sha: a0be69046f9760147a3c2478a51f57703b6922a8
+  specs:
+    dhcp (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-dns
+  ref: fcae203
+  sha: fcae203fbcc5a301a2d70281b664e6d908ecd413
+  specs:
+    dns (1.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-foreman.git
+  ref: ca2300d
+  sha: ca2300d27d55e40acaed73d46ace55cac5f127ad
+  specs:
+    foreman (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-foreman_proxy.git
+  ref: 8d4d0ea
+  sha: 8d4d0ea1680c267ec579ec6fd445d659bbb0ad02
+  specs:
+    foreman_proxy (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-git.git
+  ref: 4e57a53
+  sha: 4e57a53644d83b07726ff43c175f62a32c67d2b9
+  specs:
+    git (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-passenger.git
+  ref: c33db4a
+  sha: c33db4a6c7cd4673935459c89ebc00f1c9dbcda4
+  specs:
+    passenger (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-puppet.git
+  ref: a505a64
+  sha: a505a645d427c7eec32b11257037b9b04940e674
+  specs:
+    puppet (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-tftp.git
+  ref: c1a1f64
+  sha: c1a1f64ea6293af35b71a0909ce927d228ece862
+  specs:
+    tftp (0.0.1)
+
+GIT
+  remote: git@github.com:theforeman/puppet-xinetd.git
+  ref: 09540eb
+  sha: 09540ebe113c85a03c6df641d5d6c4684ab73b82
+  specs:
+    xinetd (0.0.1)
+
+DEPENDENCIES
+  apache (>= 0)
+  concat (>= 0)
+  dhcp (>= 0)
+  dns (>= 0)
+  foreman (>= 0)
+  foreman_proxy (>= 0)
+  git (>= 0)
+  passenger (>= 0)
+  puppet (>= 0)
+  tftp (>= 0)
+  xinetd (>= 0)
+
